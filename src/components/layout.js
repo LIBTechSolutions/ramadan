@@ -11,6 +11,9 @@ import { StaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
+import "../css/bootstrap.css"
+import "../css/nivo-lightbox/nivo-lightbox.css"
+import "../css/nivo-lightbox/default.css"
 import Footer from "./Footer";
 
 const Layout = ({ children }) => (
