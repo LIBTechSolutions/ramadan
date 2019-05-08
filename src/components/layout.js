@@ -15,8 +15,8 @@ import "./layout.css"
 import "../css/nivo-lightbox/nivo-lightbox.css"
 import "../css/nivo-lightbox/default.css"
 import "../fonts/font-awesome/css/font-awesome.css"
-require('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
-require('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+// require('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+// require('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 import Footer from "./Footer";
 
 const Layout = ({ children }) => (
